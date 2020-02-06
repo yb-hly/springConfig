@@ -10,4 +10,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
   instance:
     prefer-ip-address: true
-name: 你好
+name: 友利奈绪
